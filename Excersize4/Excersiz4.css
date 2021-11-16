@@ -1,0 +1,14 @@
+#body
+{
+    background-color: (#FFFFFF);
+    border-width: 0pt;
+    border-color: #FFFFFF;
+    border-style: solid;
+}
+
+p
+{
+    color: black;
+    font-family: Arial;
+    font-size: 12pt;
+}
